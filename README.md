@@ -45,5 +45,8 @@
 
 ![rizzset](https://github.com/user-attachments/assets/bb7fb349-54d8-49dd-a4e6-3182345ecadd)
 
-
+### Pegawai negeri
+![pn](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20010030.png)
+![pn1](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20010059.png)
+![pn2](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20010118.png)
 
