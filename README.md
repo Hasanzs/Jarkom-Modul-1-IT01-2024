@@ -50,3 +50,34 @@
 ![pn1](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20010059.png)
 ![pn2](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20010118.png)
 
+### EZ
+![E](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20010214.png)
+![E1](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20010303.png)
+
+### Illegal Breakthrough
+![IB](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20010754.png)
+![IB1](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20012202.png)
+![IB2](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20012623.png)
+
+### Corporate Breach
+![CB](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20012732.png)
+![CB1](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20214954.png)
+
+### Suprise
+![S](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20012935.png)
+![S1](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20013007.png}
+![S2](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20013405.png)
+
+### Packets Barrage
+![pb](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20013457.png)
+![pb1](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20013543.png)
+
+### Stegography
+![Sss](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20013633.png)
+![Sss1](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20013831.png)
+![Sss2](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20013842.png)
+![Sss3](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20013855.png)
+
+### Simba
+![ssSss](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20140842.png)
+
