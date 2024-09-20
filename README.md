@@ -20,8 +20,8 @@
 1. Masukkan ip di soal ke terminal
 2. Setelah itu di paket 85 kita bisa lihat ada username: janeD03
 3. Setelah itu di paket 85 kita bisa lihat ada namafile: Clue3.txt
-4. Lalu dibawahnya ada pesna rahasia cGVud29yZA==
-5. Dari kode yang diperoleh, decode kata yang ditandai dengan warna merah menjadi string. Setelah proses decoding, hasilnya adalah kata "penword".
+4. Lalu dibawahnya ada pesan rahasia cGVud29yZA==
+5. Dari kode yang diperoleh, kita Decode dan hasilnya: "penword".
 6. Maka flag didapatkan
 
    
