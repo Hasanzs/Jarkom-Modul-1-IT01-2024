@@ -94,7 +94,7 @@
 
 ### Malicious Code
 ![mc](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-20%20214018.png)
-![mc2](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20214954.png)
+![mc2](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-20%20191935.png)
 ![mc3](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-20%20193049.png)
 
 ###
