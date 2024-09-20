@@ -82,6 +82,10 @@
 ![ssSss](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20140842.png)
 ![ssSss](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-20%20212030.png)
 
+
+##### Revisi
+
+
 ### Gajah Terbang(Server Recon)
 ![gt](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-20%20190204.png)
 ![gt1](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-20%20190244.png)
