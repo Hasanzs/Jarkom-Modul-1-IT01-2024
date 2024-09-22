@@ -85,6 +85,7 @@
 
 
 ### Pegawai negeri
+### Langkah - langkah :
 1.Pada bagian FTP-DATA,di line 47 ada sebagian data csv file disana ketemu orang yang password nNnM%coQuF
 2.Di file csv 362 ketemu pekerjaannya Cici Mustofa
 3.Scroll bagian akhir dari file csv atau bagian akhir upload
@@ -107,6 +108,7 @@
 
 
 ### Illegal Breakthrough
+### Langkah - langkah :
 1.Setiap file di praktikum PCAP ini biasa dimulai dengan serangan oleh Attack jadi korban adalah IP destination dari line pertama
 2.Lihat port destination di bagian korban 
 3.Di protocol http ketemu ulangan cara masuk dengan akun dan password dan berbeda semua itu diupload ke /ww1.php
@@ -120,6 +122,7 @@
 
 
 ### Corporate Breach
+### Langkah - langkah :
 1.Diline empat sebelum http 404 ada pengiriman data dengan nama hacker
 2.Diline 2384 jika dilihat diline 2388 tidak ada "Line-based text data: text/html (21 lines)" beda daari status 200 yang lain
 ![CB](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20012732.png)
@@ -130,6 +133,7 @@
 
 
 ### Suprise
+### Langkah - langkah :
 1.Diawalan protocol FTP disebutkan versi dideskripsi
 2 & 3 Download file dan Eksekusi file
 ![S](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20012935.png)
@@ -141,6 +145,7 @@
 
 
 ### Packets Barrage
+### Langkah - langkah :
 1.Setiap file PCAP biasanya dimulai saat serangan dimulai jadi bagian IP origin diline pertama
 2.Shift-msClick http status 404 dan 302
 3.Dibawah GET /download.php follow tcp stream atau hhtp ketemu file dan isinya
@@ -152,6 +157,7 @@
 
 
 ### Stegography
+### Langkah - langkah :
 1.Download atau Export data file
 2.Cari cara translasi gambar
 3.Jika ditranlasi dan dan dibalik ketemu kata "pahlawan keamanan siber"
@@ -165,6 +171,7 @@
 
 
 ### Simba
+### Langkah - langkah :
 1.Saya ketemu dari pertama kali ketemunya file sukses didownload itu dilihat tcp stream dapat terlihat itu sukses karena lewat dari domain mmeyers
 2.Saya beruntung
 ![ssSss](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20140842.png)
@@ -175,6 +182,7 @@
 
 
 ### Gajah Terbang(Server Recon)
+### Langkah - langkah :
 1.Karena protocolnya PostGreSQL
 2.Setelah PostgreSQL ketemu port beberapa TCP saya coba semuanya karena tidak ada IP alamat
 3.Disalah satu isi dari TCP stream ketemu versi
@@ -185,6 +193,7 @@
 ![gt2](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-20%20190656.png)
 
 ### Gajah Terbang(Attacker Recon)
+### Langkah - langkah :
 1.Dilihat dari banned user_id ke 3 yang dimiliki oleh kuntoaji
 2.Has translate
 3.Di SELECT FROM banned_user: ada id 3 tgl
@@ -194,6 +203,7 @@
 ![gta2](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-20%20200506.png)
 
 ### Malicious Code
+### Langkah - langkah :
 1.Shift-msClick semua direktori yang dimasukkan
 2.Jika dilihat dari berulang kali /index.php artinya orang nya bruteforce ke dir tersebut
 3.Manual hitung 
