@@ -86,9 +86,9 @@
 
 ### Pegawai negeri
 ### Langkah - langkah :
-1.Pada bagian FTP-DATA,di line 47 ada sebagian data csv file disana ketemu orang yang password nNnM%coQuF
-2.Di file csv 362 ketemu pekerjaannya Cici Mustofa
-3.Scroll bagian akhir dari file csv atau bagian akhir upload
+1. Pada bagian FTP-DATA,di line 47 ada sebagian data csv file disana ketemu orang yang password nNnM%coQuF
+2. Di file csv 362 ketemu pekerjaannya Cici Mustofa
+3. Scroll bagian akhir dari file csv atau bagian akhir upload
 ![pn](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20010030.png)
 ![pn1](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20010059.png)
 ![pn2](https://github.com/Hasanzs/Jarkom-Modul-1-IT01-2024/blob/main/Screenshot%202024-09-19%20010118.png)
